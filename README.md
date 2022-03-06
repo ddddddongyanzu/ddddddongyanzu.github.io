@@ -1,14 +1,14 @@
 
-[leopard](http://leopardpan.cn) 是一个简洁的博客模板，响应式主题， 适配了电脑、手机各种屏幕，看效果直接点击下面链接
+[leopard](http://ddddddongyanzu.github.io/) 是一个简洁的博客模板，响应式主题， 适配了电脑、手机各种屏幕，看效果直接点击下面链接
  
- * [博客链接](http://leopardpan.cn) （部署在国内，访问更快）         
- * [Demo链接](http://leopardpan.github.io/) （部署在github page）         
+ * [博客链接](http://ddddddongyanzu.github.io/) （部署在国内，访问更快）         
+ * [Demo链接](http://ddddddongyanzu.github.io/) （部署在github page）         
 
 如果你喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
  
 ### 你在搭建个人博客遇到任何问题都可以找我
 
-遇到解决不了的问题 [需要技术支持联系我](http://leopardpan.cn/support/)
+<!-- 遇到解决不了的问题 [需要技术支持联系我](http://leopardpan.cn/support/) -->
 
 
 ### 环境要求
@@ -62,7 +62,7 @@
 你可以通过下方二维码赞助本项目，资金将用于服务器开销以及今后的公共服务
 
 感谢所有赞助过本项目的朋友，你们都为本项目贡献了自己的一份力量
-
+<!-- 
 <details>
 
 <summary>微信二维码</summary>
@@ -73,7 +73,7 @@
 
 <summary>支付宝二维码</summary>
 <img width="300" src="http://leopardpan.github.io/images/payimg/alipayim.jpg" alt="alipay">
-</details>
+</details> -->
 
 
 ### 效果预览
