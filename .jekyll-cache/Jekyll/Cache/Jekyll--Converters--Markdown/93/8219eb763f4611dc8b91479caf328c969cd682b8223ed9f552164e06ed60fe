@@ -1,4 +1,4 @@
-I"_~<h2 id="java实战">JAVA实战</h2>
+I"�~<h2 id="java实战">JAVA实战</h2>
 
 <h3 id="11-编程语言">1.1 编程语言</h3>
 
@@ -511,7 +511,7 @@
 
 <p>除了集合，该框架也定义了几个Map接口和类。Map里存储的是键/值对。尽管Map不是集合，但是它完全整合在集合中.</p>
 
-<p><img src="/Users/dongyanzu/Desktop/typora/java-coll.png" alt="java-coll" style="zoom:67%;" /></p>
+<p><img src="https://github.com/ddddddongyanzu/ddddddongyanzu.github.io/blob/master/images/posts/java-coll.jpg?raw=true" alt="java-coll" style="zoom:67%;" /></p>
 
 <h3 id="45-arraylist">4.5 ArrayList</h3>
 
