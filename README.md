@@ -65,17 +65,6 @@
 <!-- 
 <details>
 
-<summary>微信二维码</summary>
-<img width="300" src="http://leopardpan.github.io/images/payimg/weipayimg.jpg" alt="wechat">
-</details>
-
-<details>
-
-<summary>支付宝二维码</summary>
-<img width="300" src="http://leopardpan.github.io/images/payimg/alipayim.jpg" alt="alipay">
-</details> -->
-
-
 ### 效果预览
 
 #### 头像效果
