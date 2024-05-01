@@ -1,3 +1,12 @@
+---
+Layout: post
+desc: chapter2-线性模型
+title:  线性模型
+tag:  study
+---
+
+
+
 ## 线性模型
 
 ### 基本形式
@@ -78,11 +87,7 @@ $$
 
 单调阶跃函数:
 
-
-
-![image-20240424144752794](https://github.com/ddddddongyanzu/ddddddongyanzu.github.io/blob/master/images/posts/image-20240424144752794.png)
-
-
+![image-20240424144752794](https://github.com/ddddddongyanzu/m_learning/blob/main/pic/image-20240424144752794.png)
 
 所以找了一个能在一定程度上近似单位阶跃函数的替代函数:
 
@@ -92,7 +97,7 @@ y = \frac{1}{1+e^{-z}}
 $$
 
 
-![image-20240424145257270](https://github.com/ddddddongyanzu/ddddddongyanzu.github.io/blob/master/images/posts/image-20240424145257270.png)
+![image-20240424145257270](https://github.com/ddddddongyanzu/m_learning/blob/main/pic/image-20240424145257270.png)
 
 对数几率函数是一种"Sigmoid"函数，将z值转化为一个接近0或1的y值。
 $$
@@ -125,11 +130,7 @@ $$
 
 给定训练样例集，设法将样例投影到一条直线上，使得**同类样例的投影点尽可能接近**、**异类样例的投影点尽可能远离**；而后在对新样本进行分类时，将其投影到同样的这条直线上，根据**投影点的位置**来**确定样本的类别**。
 
-
-
-![image-20240426154405499](https://github.com/ddddddongyanzu/ddddddongyanzu.github.io/blob/master/images/posts/image-20240426154405499.png)
-
-
+![image-20240426154405499](https://github.com/ddddddongyanzu/m_learning/blob/main/pic/image-20240426154405499.png)
 
 对于绿色的为一类，红色的为二类：
 
@@ -176,11 +177,11 @@ $$
 $$
 m_2-m_1\propto w
 $$
-![image-20240426162012047](https://github.com/ddddddongyanzu/ddddddongyanzu.github.io/blob/master/images/posts/image-20240426162012047.png)
+![image-20240426162012047](https://github.com/ddddddongyanzu/m_learning/blob/main/pic/image-20240426162012047.png)
 
 可以求得直线的方向，完成条件的第一步，但是可以从图中看出，投影有重叠，不方便我们进行分类，所以我们的目标还得让类间方差越小：
 
-![image-20240426162128070](https://github.com/ddddddongyanzu/ddddddongyanzu.github.io/blob/master/images/posts/image-20240426162128070.png)
+![image-20240426162128070](https://github.com/ddddddongyanzu/m_learning/blob/main/pic/image-20240426162128070.png)
 $$
 J(w) = \frac{(m_2-m_1)^2}{s_1^2+s_2^2}\\
 s_k^2 = (y^i-m_k)^2
